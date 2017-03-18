@@ -76,7 +76,7 @@
 
 ### Section 5 Vacancy
 1. Vacancy in any of Caucus offices shall be filled by a majority vote at a meeting of the Caucus members, which shall be summoned upon with at least twenty-one (21) days notice.
-1. The Caucus Chair may appoint person(s) to position(s) as s/he deems necessary, subject to confirmation by the Caucus membership.
+1. The Caucus Chair may appoint person(s) to position(s) as they deem necessary, subject to confirmation by the Caucus membership.
 1. If the Chair position is vacant, the Vice Chair shall serve as acting chair until an election can be held.
 
 ### Section 6 Officer Meeting Attendance
