@@ -21,7 +21,7 @@
 1. The officers of this Caucus shall be: Chair, Vice Chair, Treasurer, Political Director, Communications Director, and a representative for each of the Caucus Regions
 
 ###Section 2 Duties
-1. **Caucus Chair**
+1. **Chair**
     1. Ensure the Caucus develops relationships with senior party members on the appropriate County Committees, CDP Executive Committee members, and with CYD chapters and CYD officers.
     1. Ensure that quarterly meetings of the caucus are held.
     1. Represent the caucus at CYD statewide and regional meetings or send a representative.
@@ -29,17 +29,22 @@
     1. Provide regular updates to the CYD Executive Board at their quarterly meeting.
     1. Guide the Caucus to recruit new members and provide avenues for them to participate in the Democratic Party.
 
-1. **Caucus Vice Chair**
+1. **First Vice Chair**
     1. Shall discharge duties at the discretion of the Chair.
     1. Shall serve as Chair in the absence of the Chair for any of the above duties.
+    
+1. **Second Vice Chair**
+    1. Shall be of a differing gender identity than the First Vice Chair.
+    1. Shall discharge duties at the discretion of the Chair.
+    1. Shall serve as Chair in the absence of the Chair and First Vice Chair for any of the above duties.
 
-1. **Caucus Secretary**
+1. **Secretary**
     1. Shall discharge any duties at the discretion of the Chair.
     1. Shall maintain the minutes of each caucus meeting.
     1. Shall store/save all important files on behalf of the Caucus.
     1. Shall maintain the caucus membership roster.
 
-1. **Caucus Treasurer**
+1. **Treasurer**
     1. Shall maintain all CYD Tech Caucus records, serve all required notices, and discharge any other duties at the discretion of the Chair.
     1. Shall keep and maintain financial records of the Caucus.
     1. Shall assist in fundraising efforts of the Caucus.
