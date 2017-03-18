@@ -17,7 +17,7 @@
 
 ## ARTICLE III OFFICERS
 ### Section 1 Officers
-1. The officers of this Caucus shall be: Chair, Vice Chair, Treasurer, Political Director, Communications Director, and a representative for each of the Caucus Regions
+1. The officers of this Caucus shall be: Chair, Vice Chair, Second Vice Chair, Treasurer, Political Director, Communications Director, and a representative for each of the Caucus Regions
 
 ### Section 2 Duties
 1. **Chair**
