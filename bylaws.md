@@ -1,5 +1,4 @@
 # California Young Democrats Technology and Innovation Caucus Bylaws
-(Presumed effective as of May 20, 2017)
 
 ## PREAMBLE
 1. The California Young Democrats Technology and Innovation Caucus (CYD Tech Caucus) shall endeavor to stimulate in young people an active interest of technology policy in government, promote and prepare young people with STEM backgrounds for elected office, advocate for diversity in technology spaces and leadership, and contribute to the growth and influence of ideals and philosophies from emerging technologists and innovators into the ideas of the Democratic Party.
