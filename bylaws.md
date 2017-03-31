@@ -65,7 +65,7 @@
         1. Assist the Chair with the Chair's duties in their respective Region.
 
 ### Section 3 Election of Officers
-1. Caucus officers shall be elected biannually at the annual California Young Democrats State Conventions (CYD Convention) which occur on odd-numbered years, or when vacancies in such positions exist.
+1. Caucus officers shall be elected annually at the California Young Democrats State Convention (CYD Convention) or when vacancies in such positions exist.
 1. Candidates for office can file their candidacy with the Secretary of the Caucus prior to the opening of the meeting in which the election is being held.
 1. Caucus officers shall be elected by a majority vote of the voting members present.
 
