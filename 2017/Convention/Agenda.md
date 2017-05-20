@@ -17,5 +17,6 @@
    1. Communications Director
    1. Northern Regional Director
    1. Southern Regional Director
+   1. Secretary
 1. Open Discussion
 1. Closing Remarks
