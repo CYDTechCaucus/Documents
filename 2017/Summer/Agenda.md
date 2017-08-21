@@ -13,9 +13,11 @@
    1. Vice Chair
    1. Second Vice Chair
    1. Treasurer
+      1. Finance Committee
    1. Secretary
    1. Political Director
    1. Communications Director
+         1. Communications Committee
    1. Northern Regional Director
    1. Southern Regional Director
 1. Open Discussion
