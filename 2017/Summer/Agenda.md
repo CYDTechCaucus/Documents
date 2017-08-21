@@ -1,8 +1,8 @@
 <p align="center">
 <b> 2017 CYD Tech Caucus Summer Meeting Agenda (Preliminary)</b></br/>
 <b> August 26, 2017 </b><br/>
-<b> Location TBA </b><br/>
-<b> Time TBD </b><br/>
+<b> Location: Plaza A - Sheraton Park Hotel at the Anaheim Resort - 1855 S Harbor Blvd, Anaheim, California 92802 </b><br/>
+<b> Time: 5:30 PM </b><br/>
 </p>
 
 1. Welcome/Introductions
