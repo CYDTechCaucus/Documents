@@ -71,7 +71,7 @@
 
 ### Section 4 Term of Office
 1. Officers elected at the CYD Convention shall take office immediately after the adjournment of the Convention.
-1. Every Officer shall hold office until the adjournment of the next CYD Convention on an odd-numbered year or until removed pursuant to Section 7 of this Article.
+1. Every Officer shall hold office until the adjournment of the next CYD Convention or until removed pursuant to Section 7 of this Article.
 
 ### Section 5 Vacancy
 1. Vacancy in any of Caucus offices shall be filled by a majority vote at a meeting of the Caucus members, which shall be summoned upon with at least twenty-one (21) days notice.
