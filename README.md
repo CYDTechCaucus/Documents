@@ -2,7 +2,7 @@
 This repo contains the foundational documents of the California Young Democrats Technology and Innovation Caucus.
 
 ## Contact
-Chair	- Devin Murphy Stephen Shepherd - chair@cydtechcauc.us
+Chair	- Devin Murphy - chair@cydtechcauc.us
 
 Vice Chair	- Zhenzhen Jiang - vicechair@cydtechcauc.us
 
